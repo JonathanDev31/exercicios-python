@@ -5,6 +5,8 @@ Exercícios do meu curso de Python, resolvidos com apoio de IA para tirar dúvid
 ## Conteúdo
 
 **for/**: exercícios com o laço `for` (números, listas, soma, contador, maior da lista)
+
+
 **while/**: exercícios com o laço `while` (contagem, soma, `input()`, senha, jogo de adivinhação)
 
 ## Sobre
